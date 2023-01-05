@@ -53,5 +53,3 @@
   <li>Games</li>
   <li>Estudo (Com musica ao fundo)</li>
 </ul>
-  
-   ![Snake animation](https://github.com/rafaballerini/aaguero96/blob/output/github-contribution-grid-snake.svg)
